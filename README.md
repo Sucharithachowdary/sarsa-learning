@@ -94,10 +94,11 @@ def sarsa(env,
 ### SARSA Learning Algorithm:
 ![280930423-c2793936-d56c-41b7-94d7-11c9493ac24f](https://github.com/charansai0/sarsa-learning/assets/94296221/39d76c94-21c6-4f09-87d1-69d970873888)
 ### Plot for State Value Function - Monte Carlo:
-![image](https://github.com/Sucharithachowdary/sarsa-learning/assets/94166007/bd711d37-9357-42a5-af28-fa61f85ace8e)
+![Screenshot (45)](https://github.com/Sucharithachowdary/sarsa-learning/assets/94166007/c3670f22-5458-4ad2-9dd3-4c3776a59c85)
+
 
 ### Plot for State Value Function - SARSA Learning:
-![image](https://github.com/Sucharithachowdary/sarsa-learning/assets/94166007/af8b7a70-3739-4a35-8783-20ec3c618660)
+![Screenshot (46)](https://github.com/Sucharithachowdary/sarsa-learning/assets/94166007/f0c96331-ab78-46ba-a3c5-190cbc9a5c31)
 
 ## RESULT:
 Thus, the implementation of SARSA learning algorithm was implemented successfully.
